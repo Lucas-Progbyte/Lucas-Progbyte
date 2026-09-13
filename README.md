@@ -55,16 +55,15 @@ I like understanding **how and why technologies work**, rather than simply makin
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Progbyte&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Lucas-Progbyte)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Progbyte&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Progbyte&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Lucas-Progbyte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Progbyte&layout=compact&theme=tokyonight)
 
 </div>
-
 ---
 
 ## 🔥 GitHub Streak
