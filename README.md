@@ -8,6 +8,12 @@ I’m particularly interested in **software development, APIs, databases, and pr
 
 I like understanding **how and why technologies work**, rather than simply making the code work.
 
+I also speak three languages:
+
+* Portuguese 🇧🇷
+* English 🇺🇸
+* Spanish 🇪🇸
+
 ---
 
 ## 🌐 Socials
